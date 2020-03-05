@@ -1,0 +1,1 @@
+15 * * * * monitora_processos.sh monitorando.log
