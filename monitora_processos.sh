@@ -13,4 +13,3 @@ ARQUIVO_LOG=$1
 
             echo -e "\nHouve um erro, favor verificar a sintaxe utilizada!"
     fi
-
